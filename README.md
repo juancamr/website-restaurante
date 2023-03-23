@@ -9,7 +9,7 @@ P&aacute;gina web de un restaurante, con la funcionalidad de administrar la cart
 <img src='captures/about-us.jpeg'/>
 <img src='captures/quienes-somos.jpeg'/>
 <img src='captures/galeria.jpeg'/>
-Lado administrativo de la p&aacute;gina
+<h2>Lado administrativo de la p&aacute;gina</h2>
 <img src='captures/support-login.jpeg'/>
 <img src='captures/support-reservas.jpeg'/>
 <img src='captures/support-carta.jpeg'/>
